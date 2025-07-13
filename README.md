@@ -1,12 +1,14 @@
 # 🔷 Yamo406
 
-**`Software Engineer`**
+**`Software Engineer (The Blue Developer)`**
 
 ### About
 
 I am a software Engineer with a high drive to learn and tinker 🛠️
 
 I like to build and contribute to open source as well as uncover the mysteries of computers.
+
+Fun Fact: I like the color blue, so I learned the blue stack (React & GO) :P
 
 ---
 
