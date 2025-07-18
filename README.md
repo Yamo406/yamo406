@@ -1,8 +1,10 @@
-# 🔷 Yamo406
+<!-- # 🔷 Yamo406 -->
+<!-- **`Software Engineer (The Blue Developer)`** -->
 
-**`Software Engineer (The Blue Developer)`**
+<h1 align="center">🔷 Yamo406</h1>
+<h5 align="center"><code><b>Software Engineer (The Blue Developer) <b></code> </h5>
 
-### About
+### About Me
 
 I am a software Engineer with a high drive to learn and tinker 🛠️
 
